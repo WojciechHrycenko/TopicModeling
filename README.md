@@ -1,5 +1,9 @@
 # Topic Modeling - Project
 
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Course](https://img.shields.io/badge/Course-Topic%20Modeling%20-blue)
+![Tools](https://img.shields.io/badge/Tools-Python%20-green)
+
 ## Grading Overview
 - **Final grade composition:**
   - **Home-taken project:** 70%
